@@ -1,0 +1,10 @@
+.option {
+}
+
+.btn {
+  text-align: center;
+  background-color: transparent;
+  border-color: rgb(43, 25, 25);
+  gap: 20px;
+  width: 150px;
+}

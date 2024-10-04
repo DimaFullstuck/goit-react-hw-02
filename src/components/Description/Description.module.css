@@ -1,0 +1,9 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  font-family: sans-serif;
+}
+.tittle {
+  font-size: 50px;
+}
